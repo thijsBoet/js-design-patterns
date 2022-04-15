@@ -1,3 +1,1 @@
-Null object pattern
-: Returns a default object when value is null
-
+- Null object pattern :Returns a default object when value is null
