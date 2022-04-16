@@ -15,3 +15,5 @@ class User {
 }
 
 let user = new User('Bob', { address: new Address('12345', 'Main St.') })
+
+console.log(user)
